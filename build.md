@@ -1,19 +1,10 @@
-YouTube: 18.23.35  
+Music: 6.15.51  
+Messenger: 422.0.0.18.107  
 YouTube-Extended: 18.30.37  
-Music (arm64-v8a): 6.14.50  
-Music (arm-v7a): 6.14.50  
-Music-Extended (arm64-v8a): 6.14.50  
-Music-Extended (arm-v7a): 6.14.50  
-Twitter: 10.2.0-release.0  
-Twitch: 15.4.1  
-TikTok: 30.8.1  
-Reddit: 2023.31.0  
-Messenger: 421.0.0.12.61  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
-
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
