@@ -10,7 +10,7 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 build-mode = "apk"
 excluded-patches = ""
 included-patches = ""
-version = "arm64-v8a"
+version = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music-Extended]
@@ -20,7 +20,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-arch = "arm64-v8a"
+apkmirror-arch = "both"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -33,7 +33,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 [Music]
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-arch = "arm64-v8a"
+apkmirror-arch = "both"
 
 [Twitter]
 build-mode = "apk"
